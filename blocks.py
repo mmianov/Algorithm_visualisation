@@ -7,7 +7,7 @@ BLUE = (0, 128, 255)
 # obstacle
 BLACK = (0, 0, 0)
 # open (not evaluated) block
-GREEN = (191, 255, 0)
+GREEN = (0, 204, 0)
 # closed (evaluated) block
 RED = (255, 0, 0)
 # path
