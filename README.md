@@ -43,4 +43,7 @@ This program was made for educational purposes and with the help of:
 - http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 
   A great article to grasp a basic understanding of search algorithms 
+  
+Feel free to fork the repository or copy the code if you want to try it yourself and/or build additional features on top of it.  
+
 
