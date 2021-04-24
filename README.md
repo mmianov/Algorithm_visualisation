@@ -34,7 +34,7 @@ This program was made for educational purposes and with the help of:
 
 -  https://www.youtube.com/c/TechWithTim/videos 
 
-    The cornerstone of this project, his tutorial helped a ton with both algorithm visualisation and its implementation
+    The cornerstone of this project, his tutorials helped a ton with both algorithm visualisation and its implementation
 
 - https://www.growingwiththeweb.com/2012/06/a-pathfinding-algorithm.html
 
