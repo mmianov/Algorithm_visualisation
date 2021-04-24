@@ -24,7 +24,7 @@ It allows user to see an algorithm in work as it progresses towards finding the 
 
 **A* Path Finding Algorithm:**
 
-![path_finding_for_docs](C:\Users\user\Downloads\path_finding_for_docs.gif)
+![A* Path Finding GIF](https://github.com/mmianov/Algorithm_visualisation/blob/mmianov/dev/img/path_finding_for_docs.gif)
 
 
 
